@@ -1,0 +1,7 @@
+C:\Users\karen.lorhana\source\repos\estudos-csharp\005ByteBank\bin\Debug\005ByteBank.exe.config
+C:\Users\karen.lorhana\source\repos\estudos-csharp\005ByteBank\bin\Debug\005ByteBank.exe
+C:\Users\karen.lorhana\source\repos\estudos-csharp\005ByteBank\bin\Debug\005ByteBank.pdb
+C:\Users\karen.lorhana\source\repos\estudos-csharp\005ByteBank\obj\Debug\005ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\005ByteBank\obj\Debug\005ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\005ByteBank\obj\Debug\005ByteBank.exe
+C:\Users\karen.lorhana\source\repos\estudos-csharp\005ByteBank\obj\Debug\005ByteBank.pdb
