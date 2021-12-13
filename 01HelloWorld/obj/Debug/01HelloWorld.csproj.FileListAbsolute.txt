@@ -1,0 +1,8 @@
+C:\Users\karen.lorhana\source\repos\estudos-csharp\01HelloWorld\bin\Debug\01HelloWorld.exe.config
+C:\Users\karen.lorhana\source\repos\estudos-csharp\01HelloWorld\bin\Debug\01HelloWorld.exe
+C:\Users\karen.lorhana\source\repos\estudos-csharp\01HelloWorld\bin\Debug\01HelloWorld.pdb
+C:\Users\karen.lorhana\source\repos\estudos-csharp\01HelloWorld\obj\Debug\01HelloWorld.csproj.AssemblyReference.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\01HelloWorld\obj\Debug\01HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\01HelloWorld\obj\Debug\01HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\01HelloWorld\obj\Debug\01HelloWorld.exe
+C:\Users\karen.lorhana\source\repos\estudos-csharp\01HelloWorld\obj\Debug\01HelloWorld.pdb

@@ -1,0 +1,7 @@
+C:\Users\karen.lorhana\source\repos\estudos-csharp\03VariaveisFloat\bin\Debug\03VariaveisFloat.exe.config
+C:\Users\karen.lorhana\source\repos\estudos-csharp\03VariaveisFloat\bin\Debug\03VariaveisFloat.exe
+C:\Users\karen.lorhana\source\repos\estudos-csharp\03VariaveisFloat\bin\Debug\03VariaveisFloat.pdb
+C:\Users\karen.lorhana\source\repos\estudos-csharp\03VariaveisFloat\obj\Debug\03VariaveisFloat.csproj.SuggestedBindingRedirects.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\03VariaveisFloat\obj\Debug\03VariaveisFloat.csproj.CoreCompileInputs.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\03VariaveisFloat\obj\Debug\03VariaveisFloat.exe
+C:\Users\karen.lorhana\source\repos\estudos-csharp\03VariaveisFloat\obj\Debug\03VariaveisFloat.pdb

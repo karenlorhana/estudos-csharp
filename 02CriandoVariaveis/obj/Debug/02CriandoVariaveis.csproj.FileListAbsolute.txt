@@ -1,0 +1,7 @@
+C:\Users\karen.lorhana\source\repos\estudos-csharp\02CriandoVariaveis\bin\Debug\02CriandoVariaveis.exe.config
+C:\Users\karen.lorhana\source\repos\estudos-csharp\02CriandoVariaveis\bin\Debug\02CriandoVariaveis.exe
+C:\Users\karen.lorhana\source\repos\estudos-csharp\02CriandoVariaveis\bin\Debug\02CriandoVariaveis.pdb
+C:\Users\karen.lorhana\source\repos\estudos-csharp\02CriandoVariaveis\obj\Debug\02CriandoVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\02CriandoVariaveis\obj\Debug\02CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\02CriandoVariaveis\obj\Debug\02CriandoVariaveis.exe
+C:\Users\karen.lorhana\source\repos\estudos-csharp\02CriandoVariaveis\obj\Debug\02CriandoVariaveis.pdb

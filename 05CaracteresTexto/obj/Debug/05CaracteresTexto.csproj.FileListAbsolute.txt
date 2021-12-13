@@ -1,0 +1,7 @@
+C:\Users\karen.lorhana\source\repos\estudos-csharp\05CaracteresTexto\bin\Debug\05CaracteresTexto.exe.config
+C:\Users\karen.lorhana\source\repos\estudos-csharp\05CaracteresTexto\bin\Debug\05CaracteresTexto.exe
+C:\Users\karen.lorhana\source\repos\estudos-csharp\05CaracteresTexto\bin\Debug\05CaracteresTexto.pdb
+C:\Users\karen.lorhana\source\repos\estudos-csharp\05CaracteresTexto\obj\Debug\05CaracteresTexto.csproj.SuggestedBindingRedirects.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\05CaracteresTexto\obj\Debug\05CaracteresTexto.csproj.CoreCompileInputs.cache
+C:\Users\karen.lorhana\source\repos\estudos-csharp\05CaracteresTexto\obj\Debug\05CaracteresTexto.exe
+C:\Users\karen.lorhana\source\repos\estudos-csharp\05CaracteresTexto\obj\Debug\05CaracteresTexto.pdb
